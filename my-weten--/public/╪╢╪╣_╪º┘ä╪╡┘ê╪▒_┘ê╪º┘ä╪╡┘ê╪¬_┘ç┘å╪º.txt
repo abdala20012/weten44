@@ -1,0 +1,2 @@
+ضع هنا: love.mp3, voice-message.mp3, music.jpg, 1.jpg إلى 9.jpg
+profile.jpg  ← صورة البروفايل التي ستظهر فوق كلمة السر وفي دخول الصفحة
